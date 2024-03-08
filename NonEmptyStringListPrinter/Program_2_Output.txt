@@ -1,0 +1,2 @@
+List with non-empty strings:
+[abc, bc, efg, abcd, jkl]
