@@ -1,0 +1,17 @@
+Enter the number of students: 10
+Enter the name of student 1: Akhila
+Enter the name of student 2: Amir
+Enter the name of student 3: Akash
+Enter the name of student 4: Abinay
+Enter the name of student 5: Abarna
+Enter the name of student 6: Meenakshi
+Enter the name of student 7: Sai
+Enter the name of student 8: Uma
+Enter the name of student 9: Dheeraj
+Enter the name of student 10: Praveen
+Students who receive special gifts:
+Akhila
+Amir
+Akash
+Abinay
+Abarna
